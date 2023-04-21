@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Nome fabio hemrique miranda gomes da motta 
-* Nome 
+* Nome Rafaela Cardoso de Souza
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
