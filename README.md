@@ -1,12 +1,14 @@
-# TÍTULO DO PROJETO
+# ONG MAIS SAÚDE
 
-`CURSO`
+Analise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Desenvolvimento Web Front End
 
-`SEMESTRE`
+Primeiro semestre - Eixo 01
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Doação de remédios onde visa contribuir com à saúde e o bem-estar de quem necessita de medicamentos. Ajudando assim á: tratar doenças, salvar vidas e melhorar
+a qualidade de vida priorizando famílias de classe economica social: E & D    
+
 
 ## Integrantes
 
@@ -16,7 +18,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviane de Almeida Torres
 
 ## Instruções de utilização
 
