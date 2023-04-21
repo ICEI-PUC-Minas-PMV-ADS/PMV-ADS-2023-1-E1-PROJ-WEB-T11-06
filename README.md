@@ -6,7 +6,7 @@ Desenvolvimento Web Front End
 
 Primeiro semestre - Eixo 01
 
-Doação de remédios onde visa contribuir com à saúde e o bem-estar de quem necessita de medicamentos. Ajudando assim á: tratar doenças, salvar vidas e melhorar
+Doação de remédios onde visa contribuir com à saúde e o bem-estar de quem necessita de medicamentos. Ajudando assim á tratar doenças, salvar vidas e melhorar
 a qualidade de vida priorizando famílias de classe economica social: E & D    
 
 
