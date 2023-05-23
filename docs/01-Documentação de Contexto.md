@@ -4,11 +4,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 
-O objetivo da doação de remédios é ajudar a melhorar a saúde e a qualidade de vida das pessoas que necessitam de medicamentos, mas que não têm condições financeiras para comprá-los. Além disso, a doação de remédios também pode contribuir para reduzir o desperdício de medicamentos, aumentar a sustentabilidade e promover a responsabilidade social.  
-  
-Ao doar remédios, o objetivo é fornecer medicamentos seguros e adequados para uso, que atendam às necessidades dos pacientes e sejam armazenados e transportados corretamente para preservar sua eficácia e segurança. É importante que as doações sejam feitas com responsabilidade e cuidado, e que as instituições ou organizações responsáveis pela coleta e distribuição dos medicamentos sigam as regulamentações e orientações específicas para garantir a qualidade dos medicamentos doados.  
-
-O objetivo final da doação de remédios é contribuir para a promoção da saúde e do bem-estar das pessoas que precisam de medicamentos, ajudando a prevenir e tratar doenças, melhorar a qualidade de vida e reduzir as desigualdades na saúde.  
+O problema que se busca resolver com este projeto a limitação que as pessoas de baixa renda têm alguns medicamentos e outros equipamentos que sejam uteis para o tratamento indicado pelo médico, criando um canal com que pessoas que tenham medicamento ou aparelhos de uso hospitalar que outras pessoas precisão mais que não tem condição de comprar e minimizar o desperdício de medicamentos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
