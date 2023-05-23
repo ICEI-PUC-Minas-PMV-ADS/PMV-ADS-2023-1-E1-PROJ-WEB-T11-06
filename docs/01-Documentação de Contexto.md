@@ -3,9 +3,12 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O objetivo da doação de remédios é ajudar a melhorar a saúde e a qualidade de vida das pessoas que necessitam de medicamentos, mas que não têm condições financeiras para comprá-los. Além disso, a doação de remédios também pode contribuir para reduzir o desperdício de medicamentos, aumentar a sustentabilidade e promover a responsabilidade social.  
+  
+Ao doar remédios, o objetivo é fornecer medicamentos seguros e adequados para uso, que atendam às necessidades dos pacientes e sejam armazenados e transportados corretamente para preservar sua eficácia e segurança. É importante que as doações sejam feitas com responsabilidade e cuidado, e que as instituições ou organizações responsáveis pela coleta e distribuição dos medicamentos sigam as regulamentações e orientações específicas para garantir a qualidade dos medicamentos doados.  
+
+O objetivo final da doação de remédios é contribuir para a promoção da saúde e do bem-estar das pessoas que precisam de medicamentos, ajudando a prevenir e tratar doenças, melhorar a qualidade de vida e reduzir as desigualdades na saúde.  
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
