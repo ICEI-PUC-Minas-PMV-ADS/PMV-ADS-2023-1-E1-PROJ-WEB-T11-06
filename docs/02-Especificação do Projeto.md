@@ -1,10 +1,12 @@
 # Especificações do Projeto
+Existem algumas opções para doação de medicamentos no Brasil, porém é importante ressaltar que a doação de medicamentos controlados é proibida por lei. Alguns sites e organizações que realizam esse tipo de doação são:
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+1. Verificar se os medicamentos doados estão dentro da validade e em boas condições de uso.
+3. Identificar corretamente os medicamentos doados, incluindo o nome, a dosagem e a data de validade.
+4. Armazenar os medicamentos em locais adequados, protegidos da luz, do calor e da umidade.
+5. Transportar os medicamentos de forma segura e adequada, seguindo as regulamentações locais.
+6. Identificar o destinatário dos medicamentos, que pode ser uma instituição de saúde ou uma organização sem fins lucrativos.
+7. Informar ao destinatário sobre as condições de armazenamento e transporte dos medicamentos doados, bem como sobre as condições de uso e descarte dos medicamentos.
 
 ## Personas
 
