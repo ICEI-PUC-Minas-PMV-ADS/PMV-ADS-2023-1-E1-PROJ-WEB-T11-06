@@ -19,12 +19,11 @@ Não existe um canal e uma conexão onde qualquer cidadão ou entidade possa doa
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo da doação de remédios é ajudar a melhorar a saúde e a qualidade de vida das pessoas que necessitam de medicamentos, mas que não têm condições financeiras para comprá-los. Além disso, a doação de remédios também pode contribuir para reduzir o desperdício de medicamentos, aumentar a sustentabilidade e promover a responsabilidade social. 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Ao doar remédios, o objetivo é fornecer medicamentos seguros e adequados para uso, que atendam às necessidades dos pacientes e sejam armazenados e transportados corretamente para preservar sua eficácia e segurança. É importante que as doações sejam feitas com responsabilidade e cuidado, e que as instituições ou organizações responsáveis pela coleta e distribuição dos medicamentos sigam as regulamentações e orientações específicas para garantir a qualidade dos medicamentos doados. 
+O objetivo final da doação de remédios é contribuir para a promoção da saúde e do bem-estar das pessoas que precisam de medicamentos, ajudando a prevenir e tratar doenças, melhorar a qualidade de vida e reduzir as desigualdades na saúde. 
+
 
 ## Justificativa
 
