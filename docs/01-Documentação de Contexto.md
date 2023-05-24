@@ -24,15 +24,21 @@ O objetivo da doação de remédios é ajudar a melhorar a saúde e a qualidade 
 Ao doar remédios, o objetivo é fornecer medicamentos seguros e adequados para uso, que atendam às necessidades dos pacientes e sejam armazenados e transportados corretamente para preservar sua eficácia e segurança. É importante que as doações sejam feitas com responsabilidade e cuidado, e que as instituições ou organizações responsáveis pela coleta e distribuição dos medicamentos sigam as regulamentações e orientações específicas para garantir a qualidade dos medicamentos doados. 
 O objetivo final da doação de remédios é contribuir para a promoção da saúde e do bem-estar das pessoas que precisam de medicamentos, ajudando a prevenir e tratar doenças, melhorar a qualidade de vida e reduzir as desigualdades na saúde. 
 
-
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A doação de remédios é extremamente importante por várias razões: 
+ 
+1.	Ajuda a salvar vidas: A doação de remédios pode ajudar a salvar vidas, especialmente em países ou regiões onde o acesso a medicamentos é limitado ou o custo é alto demais para a população local. 
+ 
+2.	Reduz o desperdício: Quando os medicamentos são doados, eles podem ser usados em vez de serem descartados. Isso reduz o desperdício e aumenta a sustentabilidade. 
+ 
+3.	Ajuda pessoas necessitadas: A doação de remédios pode ajudar pessoas que não têm condições financeiras para comprar medicamentos de que precisam. Isso pode incluir pessoas em situação de pobreza, idosos, pessoas com deficiências e outras pessoas vulneráveis. 
+ 
+4.	Contribui para a pesquisa: Os medicamentos doados podem ser usados para pesquisa e desenvolvimento de novos medicamentos ou para melhorar os existentes. 
+ 
+5.	Promove a responsabilidade social: A doação de remédios é uma forma de promover a responsabilidade social, ajudando a melhorar a qualidade de vida das pessoas e contribuindo para a construção de comunidades mais fortes e saudáveis.
+  
+6.	No entanto, é importante ressaltar que a doação de medicamentos deve ser feita com responsabilidade e cuidado, garantindo que os medicamentos sejam seguros e adequados para uso, e que sejam armazenados e transportados corretamente para preservar sua eficácia e segurança
 
 ## Público-Alvo
 
