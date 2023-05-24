@@ -44,18 +44,19 @@ A doação de remédios é extremamente importante por várias razões:
 
 O público-alvo para DOAR remédios e equipamentos é:
 
-Pessoas que têm condições financeiras para comprar medicamentos e deseja doar
-Pessoas com medicamentos sobressalentes e não deseja que venha a vencer
-Organizações não governamentais (ONGs) 
-SUS
-Hospitais Privados
+Pessoas que têm condições financeiras para comprar medicamentos e deseja doar.
+Pessoas com medicamentos sobressalentes e não deseja que venha a vencer.
+Organizações não governamentais (ONGs).
+SUS.
+Hospitais Privados.
 
 
 O público-alvo para RECEBER remédios e equipamentos é:
 
-Moradores de rua
-Refugiados
-Idosos que recebem 01 salário mínimo 
+Moradores de rua.
+Refugiados.
+Idosos que recebem 01 salário mínimo.
 Pessoas com deficiências.
 Pessoas que não têm condições financeiras para comprar medicamentos. 
+
 
