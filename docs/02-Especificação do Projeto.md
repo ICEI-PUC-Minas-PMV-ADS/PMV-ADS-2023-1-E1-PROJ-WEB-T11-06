@@ -1,12 +1,32 @@
 # Especificações do Projeto
-Existem algumas opções para doação de medicamentos no Brasil, porém é importante ressaltar que a doação de medicamentos controlados é proibida por lei. Alguns sites e organizações que realizam esse tipo de doação são:
+Produto Final
 
-1. Verificar se os medicamentos doados estão dentro da validade e em boas condições de uso.
-3. Identificar corretamente os medicamentos doados, incluindo o nome, a dosagem e a data de validade.
-4. Armazenar os medicamentos em locais adequados, protegidos da luz, do calor e da umidade.
-5. Transportar os medicamentos de forma segura e adequada, seguindo as regulamentações locais.
-6. Identificar o destinatário dos medicamentos, que pode ser uma instituição de saúde ou uma organização sem fins lucrativos.
-7. Informar ao destinatário sobre as condições de armazenamento e transporte dos medicamentos doados, bem como sobre as condições de uso e descarte dos medicamentos.
+Website e Aplicativo
+
+Estratégia
+
+Será a principal ferramenta de conexão entre doador e receptor de medicamentos e aparelhos de saúde. Deve ser simples e fácil de usar.
+
+Descrição do produto
+
+O site deve ser desenvolvido em html e css para possibilitar a visualização em dispositivos móveis. Deve ser fácil de usar e rápido para carregar. Deve permitir ainda que catálogos de remédios e equipamentos de saúde sejam facilmente atualizados.
+Usuários devem conseguir se cadastrar com facilidade porém o site deve conter verificação de segurança. 
+
+As áreas que o site deve conter são:
+
+* Home: Vitrine principal com as principais atualizações do site .
+
+* Pesquisa: A listagem de remédios e aparelhos de saúde que podem ser visualizados que são doados através do site. “Caso não tenha para doação irá ficar com a cor cinza” 
+Doadores por região como bairro município ou estado. 
+
+* Remédios disponíveis: Formulário para buscar remédios e aparelhos de saúde que tem disponível para doação.
+
+* Contato: Dúvidas, soluções e sugestões será respondida via e-mail em até 24 horas uteis via e-mail. 
+
+Principal diferencial a ser conquistado
+
+O melhor site especializado em doar remédios e equipamentos de saúde
+
 
 ## Personas
 
