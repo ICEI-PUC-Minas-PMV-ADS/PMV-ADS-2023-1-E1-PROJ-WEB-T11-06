@@ -33,7 +33,8 @@ O melhor site especializado em doar remédios e equipamentos de saúde
 Pedro França Costa tem 33 anos é suporte de informática da ONG Mais Saude. Pensa em se desenvolver profissionalmente através de um mestrado fora do país.
 Recebe grande quantidade de remédios da populaçao e do SUS e deseja doar com urgênia para liberar espaço na ONG. 
 
-Fernanda Lucia Mota
+Fernanda Lucia Mota tem 28 anos é estudante de advocacia e está desempregada no momento. Sonha em ser advogada criminal. No momento está desempregada e necessita de remédios para se tratar de doenças emocionais e mentais. Como está desempregada ela cuida da sua mãe que é paraplegica. 
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
