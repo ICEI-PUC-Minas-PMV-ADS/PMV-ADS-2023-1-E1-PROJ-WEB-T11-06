@@ -39,12 +39,12 @@ Fernanda Lucia Mota
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Pedro França Costa  | Doar remédios                      | 1 - Evitar desperdícios milionários em medicamentos que passaram do prazo de validade.
-|Pedro França Costa  | Doar remédios                      | 2 - Apoiar e proteger pessoas que precisam 
-|Pedro França Costa  | Doar remédios                      | 3 – Liberar e adquirir espaço logico na ONG
-|Pedro França Costa  | Doar equipamentos de saúde         | 1 – Socorrer quem necessita de tratamento ou recuperação da saúde
-|Pedro França Costa  | Doar equipamentos de saúde         | 2 – Liberar e adquirir espaço logico na ONG
+|--------------------|-------------------------------------|----------------------------------------|
+|Pedro França Costa  | Doar remédios                       | 1 - Evitar desperdícios milionários em medicamentos que passaram do prazo de validade.
+|Pedro França Costa  | Doar remédios                       | 2 - Apoiar e proteger pessoas que precisam 
+|Pedro França Costa  | Doar remédios                       | 3 – Liberar e adquirir espaço logico na ONG
+|Pedro França Costa  | Doar equipamentos de saúde          | 1 – Socorrer quem necessita de tratamento ou recuperação da saúde
+|Pedro França Costa  | Doar equipamentos de saúde          | 2 – Liberar e adquirir espaço logico na ONG
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |---------------------|-----------------------------------|----------------------------------------|
