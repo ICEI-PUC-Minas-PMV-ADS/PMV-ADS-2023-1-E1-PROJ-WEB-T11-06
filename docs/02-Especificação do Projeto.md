@@ -30,23 +30,28 @@ O melhor site especializado em doar remédios e equipamentos de saúde
 
 ## Personas
 
-Pedro França Costa tem 33 anos é suporte de informática da ONG Mais Saude. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Pedro França Costa tem 33 anos é suporte de informática da ONG Mais Saude. Pensa em se desenvolver profissionalmente através de um mestrado fora do país.
+Recebe grande quantidade de remédios da populaçao e do SUS e deseja doar com urgênia para liberar espaço na ONG. 
 
+Fernanda Lucia Mota
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Pedro França Costa  | Doar Remédios                      | 1 - Evitar desperdícios milionários em medicamentos que passaram do prazo de validade.
-|Pedro França Costa  | Doar Remédios                      | 2 - Apoiar e proteger pessoas que precisam 
-|Pedro França Costa  | Doar Remédios                      | 3 – Liberar e adquirir espaço logico na ONG
-          
-|Pedro França Costa  | Doar Equipamentos de saúde         | 1 – Socorrer quem necessita de tratamento ou recuperação da saúde
-|Pedro França Costa  | Doar Equipamentos de saúde         | 2 – Liberar e adquirir espaço logico na ONG
-                                                            
-                                                      
+|Pedro França Costa  | Doar remédios                      | 1 - Evitar desperdícios milionários em medicamentos que passaram do prazo de validade.
+|Pedro França Costa  | Doar remédios                      | 2 - Apoiar e proteger pessoas que precisam 
+|Pedro França Costa  | Doar remédios                      | 3 – Liberar e adquirir espaço logico na ONG
+|Pedro França Costa  | Doar equipamentos de saúde         | 1 – Socorrer quem necessita de tratamento ou recuperação da saúde
+|Pedro França Costa  | Doar equipamentos de saúde         | 2 – Liberar e adquirir espaço logico na ONG
 
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|---------------------|-----------------------------------|----------------------------------------|
+|Fernanda Lucia Mota  | Receber remédios                  | 1 - Está desempregada.
+|Fernanda Lucia Mota  | Receber remédios                  | 2 - Necessita tratar de síndrome do pânico, borderline e depressão. 
+|Fernanda Lucia Mota  | Receber equipamentos de saúde     | 1 – Mãe necessita de cadeira de rodas
+                                                      
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
