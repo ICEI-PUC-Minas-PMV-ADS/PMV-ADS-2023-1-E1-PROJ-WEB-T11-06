@@ -62,14 +62,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| Login de acesso do usuário | ALTA | 
-|RF-002| O site deve exibir a localização no MAPA do doador e dar baixa no estoque online quando o usuário retirar o mesmo | ALTA |
-|RF-003| O site irá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um medicamento específico | ALTA |
-|RF-004| O site deve ter um interface de fácil acesso para os usuários | ALTA |
-|RF-005| O site irá conter um mostruário com os medicamentos disponíveis | MÉDIA | 
-|RF-006| O site irá permitir ser acessado tanto no desktop quanto no celular e em APK | MÉDIA | 
-|RF-007| O site deverá conter uma recomendação de remédios mais pesquisados para facilitar a busca | MÉDIA | 
-|RF-008| O site deve permitir feedback do doador e do usuário | BAIXA |
-|RF-009| O site deve permitir função de APOIO ao software com PIX | BAIXA |
+|RF-02| O site deve exibir a localização no MAPA do doador e dar baixa no estoque online quando o usuário retirar o mesmo | ALTA |
+|RF-03| O site irá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um medicamento específico | ALTA |
+|RF-04| O site deve ter um interface de fácil acesso para os usuários | ALTA |
+|RF-05| O site irá conter um mostruário com os medicamentos disponíveis | MÉDIA | 
+|RF-06| O site irá permitir ser acessado tanto no desktop quanto no celular e em APK | MÉDIA | 
+|RF-07| O site deverá conter uma recomendação de remédios mais pesquisados para facilitar a busca | MÉDIA | 
+|RF-08| O site deve permitir feedback do doador e do usuário | BAIXA |
+|RF-09| O site deve permitir função de APOIO ao software com PIX | BAIXA |
 
 ### Requisitos não Funcionais
 
