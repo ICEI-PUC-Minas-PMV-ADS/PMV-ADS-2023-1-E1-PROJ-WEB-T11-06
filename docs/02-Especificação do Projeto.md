@@ -14,7 +14,7 @@ Usuários devem conseguir se cadastrar com facilidade porém o site deve conter 
 
 As áreas que o site deve conter são:
 
-* Home: Vitrine principal com as principais atualizações do site .
+* Home: Mostruario principal com as principais atualizações do site .
 
 * Pesquisa: A listagem de remédios e aparelhos de saúde que podem ser visualizados que são doados através do site. “Caso não tenha para doação irá ficar com a cor cinza” 
 Doadores por região como bairro município ou estado. 
@@ -61,9 +61,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Login de acesso do usuário   | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Login de acesso do usuário | ALTA | 
+|RF-002| O site deve exibir a localização no MAPA do doador e dar baixa no estoque online quando o usuário retirar o mesmo | ALTA |
+|RF-003| O site irá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um medicamento específico | ALTA |
+|RF-004| O site deve ter um interface de fácil acesso para os usuários | ALTA |
+|RF-005| O site irá conter um mostruário com os medicamentos disponíveis | MÉDIA | 
+|RF-006| O site irá permitir ser acessado tanto no desktop quanto no celular e em APK | MÉDIA | 
+|RF-007| O site deverá conter uma recomendação de remédios mais pesquisados para facilitar a busca | MÉDIA | 
+|RF-008| O site deve permitir feedback do doador e do usuário | BAIXA |
+|RF-009| O site deve permitir função de APOIO ao software com PIX | BAIXA |
 
 ### Requisitos não Funcionais
 
