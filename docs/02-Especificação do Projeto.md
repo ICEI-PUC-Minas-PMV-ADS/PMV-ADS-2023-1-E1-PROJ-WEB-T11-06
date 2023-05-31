@@ -61,9 +61,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID   | Descrição do Requisito  | Prioridade |
 |-----|-----------------------------------------|----|
-|RF-01| Login de acesso do usuário | ALTA | 
-|RF-02| O site deve exibir a localização no MAPA do doador e dar baixa no estoque online quando o usuário retirar o mesmo | ALTA |
-|RF-03| O site irá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um medicamento específico | ALTA |
+|RF-01 | Login de acesso do usuário | ALTA | 
+|RF-02 | O site deve exibir a localização no MAPA do doador e dar baixa no estoque online quando o usuário retirar o mesmo | ALTA |
+|RF-03 | O site irá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um medicamento específico | ALTA |
 |RF-04| O site deve ter um interface de fácil acesso para os usuários | ALTA |
 |RF-05| O site irá conter um mostruário com os medicamentos disponíveis | MÉDIA | 
 |RF-06| O site irá permitir ser acessado tanto no desktop quanto no celular e em APK | MÉDIA | 
