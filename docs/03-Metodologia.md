@@ -1,23 +1,32 @@
+#Metodologia
 
-# Metodologia
+Contextualizamos todo o processo relacionado ao desenvolvimento do sistema de doação mostrando a funcionabilidade e como seria para fazer a doação, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time. 
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Apresentamos todas as ferramentas, os ambientes e as partes estruturais descritas do trabalho, bem como a aplicação da linguagem adotada por nossa equipe de desenvolvimento para a execução do projeto.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
-## Controle de Versão
+##Equipe de Trabalho
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
 
-O projeto segue a seguinte convenção para o nome de branches:
+A organização da equipe está dessa forma:
 
-- `main`: versão estável já testada do software
+Scrum Master: Rafaela Cardoso.
+
+Product Owner: Fabio Henrique, Lorran Martins.
+
+Equipe de Desenvolvimento:  Fabio Henrique , Rafaela Cardoso , Lorran Martins.
+
+Equipe de Design:Fabio Henrique , Rafaela Cardoso , Lorran Martins.
+
+
+
+
+- `main`: ve
 - `unstable`: versão já testada do software, porém instável
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
-
+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-musica/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md)
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
